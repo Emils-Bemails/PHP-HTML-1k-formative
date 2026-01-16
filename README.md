@@ -36,7 +36,7 @@ Tukši `index.html` un `about.php` faili jau ir doti.<br>
    Ar `echo` izveidojiet virsraksta elementu ar tekstu "About".
    Izveidojiet indeksētu masīvu `$indexedArray` ar trim teksta elementiem:
 
-   - "Lorem ipsum dolor sit amet.",
+   - " ",
    - "Lorem ipsum dolor sit amet, consectetur adipisicing."
    - "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, iusto."
 
